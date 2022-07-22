@@ -46,3 +46,7 @@ main h2 {
 main h5 {
     font-size: 22px;
 }
+
+main img {
+    width:100%;
+}
